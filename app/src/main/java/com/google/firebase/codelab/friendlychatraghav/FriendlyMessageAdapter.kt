@@ -25,7 +25,6 @@ import androidx.recyclerview.widget.RecyclerView.*
 import com.bumptech.glide.Glide
 import com.firebase.ui.database.FirebaseRecyclerAdapter
 import com.firebase.ui.database.FirebaseRecyclerOptions
-import com.google.firebase.codelab.friendlychat.R
 import com.google.firebase.codelab.friendlychatraghav.MainActivity.Companion.ANONYMOUS
 import com.google.firebase.codelab.friendlychatraghav.databinding.ImageMessageBinding
 import com.google.firebase.codelab.friendlychatraghav.databinding.MessageBinding
