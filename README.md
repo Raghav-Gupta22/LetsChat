@@ -3,4 +3,4 @@ A chatting application using Firebase in which one can tranfer message, images a
 
 Various Authentication methods like Google, Facebook, Email are provided.
 
-Chat Messeges paging using Paging 3
+Chat Messeges paging using Paging 3.
